@@ -8,7 +8,7 @@ VM_CPU=1
 VM_DISK_SIZE="512M"
 VM_NET="model=virtio,bridge=vmbr0"
 STORAGE_NAME="local-lvm"
-VM_IP="10.10.27.151"
+VM_IP="192.168.11.240"
 PROXMOX_NODE="PVE"
 
 # Create new VM
